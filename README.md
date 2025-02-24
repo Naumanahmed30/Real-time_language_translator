@@ -1,3 +1,4 @@
+# Real-Time Language Translator
 Real-Time Language Translator
 Project Overview
 The Real-Time Language Translator is a web-based application designed to translate text and speech between multiple languages in real-time. The system supports:
